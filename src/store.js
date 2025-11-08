@@ -4,7 +4,7 @@ import { createStore } from "redux";
 //inital-state
 const initialState = {
     user: {
-        username: "Preethi",
+        username: "Gamana",
         balance: 25000,
     },    
 };
